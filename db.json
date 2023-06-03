@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Yugank",
+      "lastName": "Pal",
+      "email": "a@B.C",
+      "mobile": "56123123",
+      "salery": "10"
+    },
+    {
+      "id": 3,
+      "firstName": "fszdh",
+      "lastName": "dsfe",
+      "email": "dsgeh",
+      "mobile": "32231",
+      "salery": "20"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
